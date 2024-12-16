@@ -4,7 +4,7 @@
 
 I am front end/fullstack developer with react and nextjs location in Warsaw Poland 
 
-Skills: REACT / TS / NEXT.JS / TAILWINDCSS / 
+Skills: REACT / TS / NEXT.JS / TAILWINDCSS / JS
 
 - 🔭 I’m currently working on Dualingo clone 
 - 🌱 I’m currently learning Redux 
