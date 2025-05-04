@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Patryk
 #### i am front end next.js react developer
-![i am front end next.js react developer](header.png)
 
 I am front end/fullstack developer with react and nextjs location in Warsaw Poland 
 
