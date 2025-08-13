@@ -5,7 +5,7 @@ I am front end/fullstack developer with react and nextjs location in Warsaw Pola
 
 Skills: REACT / TS / NEXT.JS / TAILWINDCSS / JS
 
-- 🔭 I’m currently working on Dualingo clone 
+- 🔭 I’m currently working on Lovable clone
 - 🌱 I’m currently learning Redux 
 - 🤔 I’m looking for help with Redux 
 - 💬 Ask me about  Everything 
